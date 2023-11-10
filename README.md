@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Umut</h1>
 <h3 align="center">A frontend developer from Istanbul</h3>
 
-- 🌱 I’m currently learning **frameworks and courses**
+- 🌱 I’m currently learning **frameworks and new things**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umutkatib?tab=repositories](https://github.com/umutkatib?tab=repositories)
 
