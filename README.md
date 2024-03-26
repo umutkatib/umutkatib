@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Umut</h1>
-<h3 align="center">A frontend developer from Istanbul</h3>
+<h3 align="center">A full-stack developer from Istanbul</h3>
 
 - 🌱 I’m currently learning **frameworks and new things**
 
