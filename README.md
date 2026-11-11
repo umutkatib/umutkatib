@@ -31,9 +31,9 @@
       height="70"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap"
       width="70"
       height="70"
@@ -107,13 +107,16 @@
       height="70"
     />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      alt="github"
-      width="70"
-      height="70"
-    />
+   <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
+      <img
+        src="https://cdn.simpleicons.org/github/181717"
+        alt="github"
+        width="70"
+        height="70"
+      />
+    </picture>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
