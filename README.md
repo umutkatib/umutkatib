@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Umut</h1>
-<h3 align="center">A full-stack developer from Istanbul</h3>
+<h3 align="center">A full-stack developer from Bursa</h3>
 
 - 🌱 I’m currently learning **frameworks and new things**
 
@@ -31,13 +31,6 @@
       height="70"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-      <img 
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
-          alt="sass"
-          width="40"
-          height="40"/> 
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -58,10 +51,18 @@
       height="70"
     />
   </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+      alt="dotnetcore"
+      width="70"
+      height="70"
+    />
+  </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+      alt="mssql"
       width="70"
       height="70"
     />
@@ -70,14 +71,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="70"
-      height="70"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
       width="70"
       height="70"
     />
@@ -98,18 +91,34 @@
       height="70"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"
+      alt="swagger"
       width="70"
       height="70"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
+      alt="visualstudio"
+      width="70"
+      height="70"
+    />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      alt="github"
+      width="70"
+      height="70"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
       width="70"
       height="70"
     />
